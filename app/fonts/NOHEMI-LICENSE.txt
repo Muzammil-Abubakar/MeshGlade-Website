@@ -1,0 +1,5 @@
+NOHEMI typeface by Rajesh Rajput (©rajeshrajput).
+"By downloading/installing NOHEMI free typeface you agree to this license.
+This typeface is freeware, you can use it freely for personal and commercial projects.
+The typeface files may not be modified without written permission from Rajesh Rajput."
+Source: https://rajputrajesh-448.gumroad.com/l/NOHEMI9 (files obtained unmodified via the @tamagui/font-nohemi npm package)
